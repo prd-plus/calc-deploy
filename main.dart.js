@@ -9473,7 +9473,7 @@ a40:function a40(a){this.a=a},
 a41:function a41(a){this.a=a},
 az_(){var s=0,r=A.I(t.H),q,p,o,n,m,l,k,j,i,h
 var $async$az_=A.J(function(a,b){if(a===1)return A.F(b,r)
-while(true)switch(s){case 0:$.E0="http://localhost:1337"
+while(true)switch(s){case 0:$.E0="https://prd.innoz.art"
 $.aBC="16503eb7351be1a4cd2b7205c5fc1153b63285c70516c51b7ef1a06ec91b9e204e99b79ef70172a9cb48950126dfb9b23c73b33907debb905a04df38d4648d8eb5420c563cdba236d4341d06b08e2f81bc2058b55b80d1972a6ebdaee6635d580c5307f04ac2b2d0b281254ef77e22b49eabaaf194bd8c076f5dda803ff6b81e"
 A.aTf()
 q=$.at()
